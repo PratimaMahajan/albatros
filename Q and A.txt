@@ -1,0 +1,18 @@
+Internal Servor error
+
+Win-001
+
+CurrentEnvironment.cs and web-config
+
+Any db scripts and queries through cf
+
+If any changes in application do v need to upload whole app in cf again
+
+
+
+
+
+
+
+link http://cntlm.sourceforge.net/ 
+https://github.com/cloudfoundry/cli#downloads
